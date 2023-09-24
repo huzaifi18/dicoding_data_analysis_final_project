@@ -2,7 +2,11 @@
 ## Overview
 The Air Pollution Dashboard provides visualizations of air quality data collected from various stations.
 Users can customize the data view by selecting a date, time unit, and station.
-Dashboar Access: [Streamlit](https://air-quality.streamlit.app/)
+
+
+Dashboard Access: [Streamlit](https://air-quality.streamlit.app/)
+
+
 ![Dashboard Preview](dashview.jpg)
 
 ## Features
