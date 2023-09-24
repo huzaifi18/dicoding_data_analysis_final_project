@@ -32,8 +32,7 @@ with my_expander:
     with cols2:
         selected_reference = st.selectbox(
         label="Referensi Waktu",
-        options=('Tahun', 'Hari', "Jam"),
-        placeholder="Pilih satuan waktu..."
+        options=('Tahun', 'Hari', "Jam")
         )
 
     with cols3:
